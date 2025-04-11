@@ -10,6 +10,7 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
 </a>
 
 ### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -18,6 +19,7 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -26,6 +28,7 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -34,6 +37,7 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -43,7 +47,6 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Laravel" 
@@ -52,6 +55,16 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -60,6 +73,7 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
