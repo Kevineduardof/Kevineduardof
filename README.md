@@ -58,8 +58,8 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
 
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Oracle" 
+    title="Oracle"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
