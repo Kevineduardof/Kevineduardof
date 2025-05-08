@@ -13,8 +13,8 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="HTML5" 
+    title="HTML5"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" 
@@ -22,8 +22,8 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="CSS3" 
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" 
@@ -40,8 +40,8 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
