@@ -119,10 +119,3 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br>
-<br>
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevineduardof&show_icons=true&theme=dracula)
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevineduardof&hide_progress=true&theme=dracula)
-
