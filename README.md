@@ -49,8 +49,8 @@ Meu nome é Kevin Eduardo, tenho 21 anos e estou cursando Análise e Desenvolvim
 
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
+    alt="VueJS" 
+    title="VueJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
